@@ -1,0 +1,174 @@
+/* ==========================================================================
+   Color classes
+   ========================================================================== */
+
+/* color */
+.text-brown {
+	color:#AF8038 !important;
+}
+
+.text-mint {
+	color: #3EC1BC !important;
+}
+
+.text-mint-2 {
+	color: #259CB5 !important;
+}
+
+.text-yellow {
+	color: #FFE763 !important;
+}
+
+.text-orange {
+	color: #FFAB19 !important;
+}
+
+.text-red {
+	color: #FF0707 !important
+}
+.text-pink {
+	color: #FC3557 !important;
+}
+
+.text-pink-2 {
+	color: #FF00BB !important; 
+}
+
+.text-pink-3 {
+	color: #F52650 !important; 
+}
+
+.text-dark {
+	color: #292a2b !important;
+}
+
+.text-dark-2 {
+	color: #363a3c !important;
+}
+
+.text-dark-3 {
+	color: #4d5256 !important;
+}
+
+.text-dark-4 {
+	color: #242424 !important;
+}
+
+.text-gray {
+    color: #878d91 !important;
+}
+
+.text-gray-2 {
+    color: #F5F8F8 !important;
+}
+
+.text-gray-3 {
+    color: #EFF3F3 !important;
+} 
+
+.text-gray-4 {
+    color: #e1e4e6 !important;
+}
+
+.text-gray-5 {
+    color: #eaeeef !important;
+}
+
+.text-gray-6 {
+    color: #f1f5f5 !important;
+}
+
+.text-gray-7 {
+    color: #f8fafb !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+/* background-color */
+
+.bg-white {
+    background-color: #fff !important;
+}
+
+.bg-black {
+    background-color: #000 !important;
+}
+
+.bg-darkgray {
+	background-color: #2D2C2C !important;
+}
+
+.bg-darkgray-2 {
+	background-color: #565656 !important;
+}
+
+.bg-darkgray-3 {
+	background-color: #707070 !important;
+}
+
+.bg-yellow {
+    background-color: #FFE763 !important;
+}
+
+.bg-red {
+    background-color: #EC0101 !important;
+}
+
+.bg-orange {
+    background-color: #FFB029 !important;
+}
+
+.bg-orange-2 {
+    background-color: #FB9F16 !important;
+}
+
+.bg-mint {
+	background-color: #51C1C9 !important;
+}
+
+.bg-gray {
+    background-color: #F5F8F8 !important;
+}
+
+.bg-gray-2 {
+    background-color: #9F978E !important;
+}
+
+.bg-gray-3 {
+    background-color: #C9C9C9 !important;
+}
+
+.bg-gray-4 {
+    background-color: #EFF3F3 !important;
+}
+
+.bg-gray-5 {
+    background-color: #F5F8F8 !important;
+}
+
+.bg-gray-6 {
+    background-color: #E8F2F2 !important;
+}
+
+/* border-color */
+.border-red {
+    border: 1px solid #F3B33E !important;
+}
+
+.border-gray {
+    border: 1px solid #E6E6E6 !important;
+}
+
+.border-gray-2 {
+    border: 1px solid #DCDCDC !important;
+}
+
+.border-gray-3 {
+    border: 1px solid #E1E4E6 !important;
+}
+
+.border-white {
+    border: 1px solid #fff !important;
+}

@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'NanumSquare';
+    src: local(NanumSquareB),
+        local(NanumSquareEB),
+        local(NanumSquareL),
+        local(NanumSquareR),
+        url('../fonts/NanumSquareB.ttf') format('truetype'),
+        url('../fonts/NanumSquareEB.ttf') format('truetype'),
+        url('../fonts/NanumSquareL.ttf') format('truetype'),
+        url('../fonts/NanumSquareR.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 400;
+    src: url('../fonts/NanumSquareR.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 700;
+    src: url('../fonts/NanumSquareB.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 800;
+    src: url('../fonts/NanumSquareEB.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-weight: 300;
+    src: url('../fonts/NanumSquareL.ttf') format('truetype');
+}
